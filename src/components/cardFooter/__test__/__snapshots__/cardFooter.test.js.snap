@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CardFooter should render correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="bottom"
+  >
+    <div
+      class="clap"
+    >
+      <img
+        alt="clapping"
+        class="reaction"
+        src="clapping-grey.svg"
+      />
+      <p>
+        45
+      </p>
+    </div>
+    <img
+      alt="like"
+      class="reaction"
+      src="heart-black.svg"
+    />
+  </div>
+</DocumentFragment>
+`;

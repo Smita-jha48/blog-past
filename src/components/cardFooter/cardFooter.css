@@ -1,0 +1,23 @@
+.bottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 1vh 0;
+}
+  
+  .clap {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .reaction {
+    height: 3vh;
+    width: 3vw;
+    cursor: pointer;
+  }
+  
+  .reaction:hover {
+    transition-duration: 0.2s;
+    transform: scale(1.2);
+  }

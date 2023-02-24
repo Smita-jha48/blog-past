@@ -1,0 +1,39 @@
+a{
+    text-decoration: none;
+}
+    
+li{
+    list-style: none;
+}
+.navbar {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: flex-end;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+.logo {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+}
+.nav-links a{
+   color: white;
+}
+.titleUpper{
+    font-size: 22px; 
+}
+.titleLower{
+    font-size: 18px;
+    font-style: italic;
+}
+.menu {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6em;
+    font-size: 18px;
+    margin-bottom: -20px;
+    padding-bottom: 0px;
+}
